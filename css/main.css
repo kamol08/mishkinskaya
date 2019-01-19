@@ -1,0 +1,491 @@
+/*Beginning of the Header*/
+
+.headerFluid{
+	background-color: #EBEBEB;
+	background-image: url(../images/headerBg.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	padding: 25px 0 10px 0;
+}
+
+.logoTxt {
+	float: left;
+	font-size: 32px;
+	font-weight: bold;
+	color: #4F4E4E;
+	margin:30px 0px 0 10px;
+}
+.headerLogo {
+	margin-left: 0px;
+}
+.logoPhone {
+	float: left;
+	margin-left: 25px;
+	margin-right: 10px;
+}
+.phoneTxt{
+	font-size: 12px;
+	color: #4F4E4E;
+	font-weight: bold;
+}
+.phoneNumber {
+	font-size: 25px;
+	color: #4F4E4E;
+}
+.headerCol a{
+		text-decoration: none;
+}
+.headerCol a:hover{
+	color: #000000;
+}
+.phoneA {
+	font-size: 17px;
+	font-weight: bold;
+	margin-left: 80px;
+	color: #1368B7;
+}
+.phoneA2{
+		font-size: 17px;
+	font-weight: bold;
+	color: #1368B7;
+}
+
+/*End of the Header*/
+
+/*Beginning of the Navigation*/
+
+.fluidNav {
+	background-image: url(../images/navbg.png);
+	padding: 0 0 0 0;
+
+}
+
+.navLia {
+	float: left;
+	margin-bottom: 0;
+}
+.navLia li {
+	display: inline-block;
+	list-style: none;
+	font-size: 17px;
+padding: 9px 20px 9px 20px;
+}
+.navLia a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.search{
+	margin-left: 40px;
+	float: left;
+	padding: 12px 8px 8px 12px;
+}
+.imageButton {
+float: left;
+cursor: pointer;
+}
+.navLia li:hover {
+	background-color: #1db2e8;
+}
+
+
+/*End of the Navigation*/
+
+/*Beginning of the UnderNav*/
+
+.FluidUnderNav {
+	background-image: url(../images/UnderNav.jpg);
+	background-repeat: no-repeat; 
+	background-position: center center;
+	background-size: cover;
+	padding: 50px 0 50px 0;
+}
+.UnderNavTxt {
+	color: #1DB2E8;
+	font-size: 28px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.MoreButton {
+	margin-left: 50px;
+}
+.fluidInform {
+	padding: 50px 0 50px 0;
+}
+
+.MoreImage{
+	margin-top: 100px;
+}
+.IformImg {
+padding-right: 10px;
+}
+.InformImgTxt {
+	margin-right: 15px;
+	font-weight: bold;
+	font-size: 18px;
+	color: #505050;
+	padding-top: 5px;
+}
+.InformTxt {
+	margin:20px 0 0 0 ;
+	color: #505050;
+}
+.IformImgClass a{
+	text-decoration: none;
+	display: block;
+}
+.ContainerMsh {
+	border:1px solid #C6C6C6;
+	background-color: #F2F2F2;
+}
+.shadowImg{
+		background:url(../images/shadowLeft.png) left bottom no-repeat, url(../images/shadowRight.png) right bottom no-repeat;
+padding-bottom: 25px;
+}
+.ContainerMshTxt {
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	color: #4F4E4E;	
+}
+.ContainerMshTxtTwo {
+	color:#303030;
+	text-align: center;
+}
+.ButtonMore {
+	padding: 5px 25px 5px 25px;
+background-color: #0080C2;
+border:0;
+border-radius: 5px;
+}
+.MoreButton2 {
+	margin: 20px 0 30px 0;
+}
+.ContainerMshFluid {
+	padding: 0 0 30px 0;
+	padding-top:0px;
+}
+
+/*End of the UnderNav*/
+
+/*Beginnig of the News Blog*/
+
+
+.NewxBlogDiv{
+	background-image: url(../images/RowLine.png);
+	background-repeat: no-repeat;
+	margin-top: 30px;
+}
+.newsTxt {
+	color: #505050;
+	font-weight: bold;
+	font-size: 18px;
+	padding:0;
+}
+.NewsBlogImg {
+	margin-top: 15px;
+	display: block;
+	margin-right: 15px;
+	float: left;
+}
+.NewsBlogTxt {
+	padding-top: 15px;
+line-height: 25px;
+}
+.NewsBlogTxtSpan {
+font-size: 15px;
+color: #505050;
+}
+.NewsBlogTxta{
+	float: right;
+	margin-top: 10px;
+	margin-right:15px; 
+}
+.NewsBlogTxt1 {
+	font-size: 25px;
+	color: #1DB2E8;
+	font-weight: bold;
+}
+.NewsBlogTxt a{
+	text-decoration: none;
+	color: #1DB2E8;
+}
+.picturesJpg {
+	margin-top: 5px;
+}
+.NewsBlogForm {
+	margin-top: 40px;
+}
+.NewsBlogForm input {
+	font-size: 18px;
+	padding: 5px 7px 5px 7px;
+}
+
+
+/*End of the News Blog*/
+
+/*!Beginning of the Methods Blog*/
+
+.methodFloud {
+	padding-bottom: 50px;
+
+}
+.methodContain{
+		box-shadow: 0 1px 0 0 rgba(0,0,0,0.3);
+}
+.mthodstxt {
+		font-size: 18px;
+	font-weight: bold;
+}
+.methodsPic1 {
+	border:15px solid #E9E9E9;
+}
+
+.methodTxt {
+color: #098BF7;
+font-size: 18px;
+padding:15px 0 0 15px;
+}
+.methodMainTxt 
+{
+	color: #505050;
+	padding-left: 15px;
+}
+/* End of the Methods Blog*/
+
+/*!Beginning of the Blogs*/
+
+
+.BlogsFluid {
+	padding: 50px 0 50px 0;
+}
+.BogsTxt {
+	color: #333333;
+	font-size: 18px;
+	float: left;
+}
+.LeftImg {
+	float: right;
+}
+.RightImg {
+	float: right;
+	margin-left: 5px;
+}
+.BlogsRowTwo {
+	background-color: #F2F2F2;
+}
+.BlogsRowTwoTxt1 {
+	color: #666666;
+	font-weight: bold;
+	padding: 15px 0 0 15px;
+}
+.BlogsRowTwoTxt2{
+padding-left: 15px;
+padding-bottom: 10px;
+}
+.blogsUl li{
+	list-style: none;
+}
+.blogsUl a {
+	text-decoration: none;
+		color: #666666;
+}
+.MoreButtonBlogs {
+	margin-right: 10px;
+	margin-bottom: 4px;
+	margin-top: 3px;
+}
+.EndFluid {
+		background: url(../images/endBg.png) repeat, url(../images/MedicinePicLeft.png) no-repeat left bottom, url(../images/MedicinePic.png) no-repeat right bottom;
+		padding: 50px 0 50px 0;
+}
+.tableEnd {
+	color: #ffffff;
+}
+.endblogss {
+	font-size: 18px;
+}
+.Twit {
+	font-size: 18px;
+}
+.tdTxt {
+	padding-left: 15px;
+	padding-top: 15px;
+	font-size: 11px;
+	width: 250px;
+}
+.trTxtimg {
+	padding-top: 15px;
+}
+.tableEnd2 {
+	color: #ffffff;
+}
+.tdTxtIMG {
+padding-right: 15px;
+padding-top: 0;
+float: left;
+}
+.tdTxt2 {
+	font-size: 13px;
+	padding-top: 15px;
+}
+.contacs {
+	font-size: 18px;
+}
+.tableBlogs3 {
+	color: #ffffff;
+}
+.td44{
+	padding-top: 15px;
+}
+.td87 {
+	padding-top: 20px;
+}
+.FooterFluid {
+	background-color: #414141;
+	padding: 10px 0 10px 0;
+}
+.c2014 {
+	color: #ffffff;
+	padding-top:5px;
+}
+.facebook{
+	float: left;
+	margin-right: 5px;
+}
+.gray {
+	padding-left: 20px;
+	margin-top: -12px;
+	float: left;
+}
+
+
+.navLiaFirst li{
+	display: none;
+}
+
+.navLia ul {
+	padding: 0;
+}
+
+
+
+@media only screen and (max-width:600px) {
+
+		.logoTxt {
+			font-size: 24px;
+			padding-left: 10px;
+			padding: 10px 0 0 0;
+		}
+		.headerFluid {
+			padding:  0 0 5px 0;
+			margin: 0 0 0 0;
+			background-image: none;
+		}
+		.logoPhone {
+			margin-left: 25px;
+		}
+
+.navLia {
+	padding: 0 0 0 0;
+}
+.fluidNav {
+	background-image: url(../images/navbg.png);
+	background-repeat: repeat-x;
+	padding: 0;
+}
+.navLia li {
+	display: block;
+}
+.navLiaFirst li a {
+	color: #ffffff;
+}
+.navLia ul {
+	display: none;
+}
+.navLia:hover ul {
+	background-image: url(../images/navbg.png);
+	float: left;
+	display: block;
+	margin-left: 30px;
+	padding: 0;
+}
+.navLia:hover ul a{
+	color: #ffffff;
+	padding-left: 15px;
+}
+.searchform{
+	float: right;
+}
+
+.Menu{
+	margin-left: 30px;
+}
+.Menu a{
+	padding-left: 30px;
+}
+.FluidUnderNav {
+	background-image: url(../images/MdBg2.jpg);
+	background-size: cover;
+}
+.MoreImage {
+	margin-top: 0;
+}
+.ContainerMsh {
+	margin: 0 10px 0 10px;
+}
+.NewsBlogTxta{
+	float: none;
+	margin-top: 0;
+	margin-right:0; 
+}
+.NewsBlogForm{
+	margin-bottom: 15px;
+}
+
+
+.NaborPic{
+	display: none;
+}
+
+.MethodRow {
+	text-align: center;
+}
+
+
+
+.blogsUl{
+	float: left;
+}
+.tipotImg{
+	display: none;
+}
+
+}
+
+@media only screen and (max-width:475px) {
+
+.NewsBlogImg {
+float: none;
+padding-left: 60px;
+padding-top: 15px;
+}
+.mthodstxt {
+	paddin: 0 auto;
+}
+
+.NewsBlogRow {
+	text-align: center;
+}
+
+
+}
+
+
+@media only screen and (max-width:475px) {
+	.search {
+		display: none;
+	}
+	.imageButton{
+		display: none;
+	}
+}
